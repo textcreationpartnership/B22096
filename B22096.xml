@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[An ordinance by the Lords and Commons assembled in] Parliament, concerning the militia of the city of London. Die Mercurii, 19. Julii, 1643.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22096</idno><idno type="EEBO-CITATION">99888073</idno>
+  <idno type="VID">201529</idno>
+  <idno type="EEBO-PROQUEST">2240896623</idno>
+  
+            <idno type="STC">Wing E1826</idno>
+            <idno type="STC">Interim Tract Supplement Guide 105.f.17[22]</idno>
+            <idno type="STC">ESTC R228986</idno>
+            <idno type="PROQUEST">ocm99888073</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888073e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201529)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:2[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[An ordinance by the Lords and Commons assembled in] Parliament, concerning the militia of the city of London. Die Mercurii, 19. Julii, 1643.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Imperfect: cropped at head with partial loss of title; portion of title suggested by Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Militia --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201529:1"/>
+            <head>Parliament, concerning the Militia of the City of London.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, 19. Julii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Parliament Assembled, taking into their serious consideration; That according to divers Ordinances of both Houses, the Committee for the <hi>Militia</hi> of <hi>London,</hi> and divers others wel-affected persons, by approbation of the said Committee, have raised great Forces of Horse and Foot; have made Courts of Guard, Forts, and Lines of Communication from one Fort to ano<g ref="char:EOLhyphen"/>ther, as well within the said City and liberties, as without, in the Counties of <hi>Middlesex</hi> and <hi>Surry,</hi> have caused those Forces to be listed, ar<g ref="char:EOLhyphen"/>rayed, weaponed, trained and exercised, and divers of these Courts of Guard and Forts to be manned and furnished with Ordnance; and have appointed Colonels, Captaines, and other Officers over them: That the said Committee and wel-affected persons are raising more forces of Horse and Foot, and providing more Armes and other necessaries; That the said Forces, Courts of Guard, and Forts have been, and are in<g ref="char:EOLhyphen"/>tended to be constantly imployed for the safegard of this present Parliament, and of the said City and parts adjacent; whereon our Religion, Lawes, Liberties, and publique safety do so much depend; That the charge of raising and maintaining the said Forces, Courts of Guard and Forts, hath been, and is like to bee very great, and hitherto born chiefly by the said City and wel-affected Citizens thereof; That it is necessary to continue this charge till our Religion, Laws, and Liberties be by other meanes secured; That it is most just that all persons inhabiting within the said Forts and lines of Com<g ref="char:EOLhyphen"/>munication, and Parishes adjacent, being in the more safety thereby, should therefore contribute to the said charge, and put their shoulders to the burthen, which will make it be much the more easily undergone: That it wil eminently tend to the safety of all the said Inhabitants, if all the said Forces raised and to be raised within the commands of the said Forts and lines of Communication, and Parishes adjacent, be subordinate to the command of the Committee of the <hi>Militia</hi> of <hi>London,</hi> next under both Houses of Parliament. That for the better carrying on the work, it is necessary some persons be added to the said Committee; That the Lord Major, Aldermen, and Common-councel of the said City have petitioned to that purpose. Hereupon the said Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled doe ordaine and declare, and be it ordained and declared, That the said Committee for the <hi>Militia</hi> of <hi>London,</hi> shall have full power and authority to cause all and singular his Majesties Subjects, inhabiting within the command of the said Forts, or lines of Communication, and Parishes adjacent, mentioned in the weekly Bills of Mortality, that are meet and fit for the Warres, from time to time to be assembled and called together, and to be listed, well and sufficiently arrayed, weaponed, trained, exercised, and put in readinesse in places most fit for that purpose, excepting such as are Peeres, or Members of the House of Commons, or Assistants or attendants to the House of Peeres, and all their menuall servants, and the Students of the severall Innes of Courts and Chancery. And for the better execution of this Ordinance, to make as well one or more Sub-commit<g ref="char:EOLhyphen"/>tees, consisting of so many persons as they shall think fit; as also Colonels and Captaines, and other Officers, and to remove them out of their places, and to make others from time to time, as they shall think fit for that purpose; And to lead, conduct and imploy the said Forces, arrayed and weaponed, as well for the disarming of all such within the command of the said Forts and lines of Communication, as shall refuse to give obedience to this Ordi<g ref="char:EOLhyphen"/>nance, and for the safe guarding of the said Forts and lines of Communication, as also for the suppression of all rebellions, insurrections, and invasions that may happen within the same, and of all Forces raised without authority of Parliament, and to give battail and fight with them and their adherents, and all others that shall approach with any such force towards, or against the Parliament, or Cities of <hi>London</hi> and <hi>Westminster,</hi> and places adjacent, or shall cause any insurrection within command of the said Forts or lines of Communication, and them to invade, resist, represse, subdue, pursue, kill, and slay, and by all meanes to destroy as enemies of the Kingdom, and to perform all things else needfull for the preservation of the Parliament and Cities aforesaid, either by water or land: observing from time to time such other directions or commands, as they shall receive from both Houses of Parliament.</p>
+            <p>And it is further ordained and declared by the said Lords and Commons, That all persons inhabiting within command of the said Forts or lines of Communication and Parishes adjacent, mentioned in the weekly Bill of Mortality, except the persons before excepted, shall contribute towards the said charge in such a reasonable proportion as shall be thought fit by both Houses of Parliament, and that all the Forces raised and to be raised within the said Forts and lines of Communication, and Parishes adjacent, mentioned in the weekly Bill of mortality, except the persons before excepted, shall be orde<g ref="char:EOLhyphen"/>red and disposed of from time to time, by the said Committee for the <hi>Militia</hi> of <hi>London,</hi> any former Order, Ordinance, or Declaration, or other matter to the contrary hereof, in any wise notwithstanding; And that <hi>Isaac Pennington</hi> now Lord Major, <hi>John Kendrick</hi> Alderman, <hi>Richard Turner</hi> senior, <hi>Willi<g ref="char:EOLhyphen"/>am Hobson, Theophilus Reyley, Richard Bateman, Edward Cocke, Richard Turner</hi> junior, <hi>Robert Tichbourne, Tempest Milner, William Antrebus, Thomas Player</hi> senior, and <hi>Samuel Harsnet,</hi> Citizens of <hi>London,</hi> shall be added to the said Committee. And it is further ordained and declared, That as the good endevours of the said Committee for the <hi>Militia,</hi> and of other wel-affected persons aforesaid, are and shall be taken as real testimonies of their good intentions for the common good and safety, and the execution thereof a good and acceptable service to the Common-wealth, so the said persons shall be by power of Par<g ref="char:EOLhyphen"/>liament saved harmlesse both for what (according to the true meaning of the premises) they have done, and what they or any others shall doe in the exe<g ref="char:EOLhyphen"/>cution of this Ordinance from time to come.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Jo. Brown Cler. Parliamentorum.</item>
+                     <item>H. Elsynge Cler. Parl. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
